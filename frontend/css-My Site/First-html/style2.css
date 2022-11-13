@@ -1,0 +1,29 @@
+/*******************************TAG SELECTORS*****************************/
+h1
+{
+font-size:150px;
+color:darkolivegreen;
+}
+img:hover/*"hover" is use to give background-color to when we move our arrow on some images*/
+{
+background-color:darkcyan;
+}
+/******************************CLASS SELECTORS SELECTORS*****************************/
+/*THIS CAN WE USE MANY TIME */
+.broccoli{
+    background-color: cyan;
+}
+.bacon{
+    background-color: coral;
+}
+.circular
+{
+border-radius:100%;
+}
+/*******************************ID SELECTORS*****************************/
+
+#heading /*TAG SELECTOR(h1) tag also give same result but using ID selector(#heading) it is more specified*/
+/*ID SELECTORS CAN WE USE ONLY ONE TIME FOR SPECIFIC WORD/SENTENCE*/ 
+{
+color:aquamarine;
+}

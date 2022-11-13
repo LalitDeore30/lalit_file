@@ -1,0 +1,79 @@
+
+body
+{
+    text-align:center;
+    margin:0;
+    font-family:'Merriweather Sans', sans-serif;
+}
+h1
+{
+    color:#317b60;
+    font-family:'Sacramento', cursive;
+     font-size: 90px;/* 1rem=16px some time in other website their is use of rem instied of px*/
+}
+h2{
+    color:#317b60;
+    font-family:'Montserrat', sans-serif;
+}
+h3{
+    color:#317b60;
+    font-family: 'Montserrat', sans-serif;
+}
+hr 
+{   border-style:none;
+    border-top-style:dotted;
+    border-color:grey;
+    border-width:4px;
+    width:5%;
+    padding:20px 0;
+}   
+p{
+ color:#456d5e;
+}
+.top-cloud
+{
+   position:relative;
+   left:220px; 
+}
+.bottom-cloud
+{
+    position:absolute;
+    left:330px;
+}
+.top-container
+{
+  background-color:#DEF5E5;
+  padding-top:100px;
+}
+.middle-container
+{
+    background-color:#DEF5E5;
+}
+.bottom-container
+{
+background-color:rgb(171, 209, 187);
+}
+.whatsapp
+{
+    height: 40px; 
+}
+.twitter
+{
+    height: 60px; 
+}
+.facebook
+{
+ height: 40px;   
+}
+.gmail
+{
+    height:40px;
+}
+.lalit
+{
+    height:180px;
+}
+.code
+{
+    height: 400px;
+}

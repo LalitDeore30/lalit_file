@@ -1,0 +1,40 @@
+body{
+    margin:0;
+}
+.container
+{
+    height:300px;
+    width:300px;
+    position:absolute;
+    background-color:lightgrey;
+}
+
+.red
+{
+    height:100px;
+    width:100px;
+    position:absolute;
+    background-color:red;
+    top:0px;
+    left:100px;
+}
+.yellow
+{
+    height:100px;
+    width:100px;
+    position:absolute;
+    right:30px;
+    background-color:yellow;
+    top:0px;
+    left:200px;
+}
+.blue
+{
+    height:100px;
+    width:100px;
+    position:fixed;
+    right:20px;
+    background-color:blue;
+    left:0px;
+}
+    
